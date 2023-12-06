@@ -12,7 +12,7 @@ function palindromeText (str) {
 
 function checkPalindrome () {
   // Get the input value from the text field
-  const inputText = document.getElementById('input_text').value
+  const inputText = document.getElementById('input-text').value
   // Checking if it is a palindrome
   const isPalindrome = palindromeText(inputText)
   const resultElement = document.getElementById('result')
@@ -21,4 +21,7 @@ function checkPalindrome () {
   } else {
     resultElement.innerHTML = 'Sorry, input text is not a palindrome.'
   }
+}
+if (onclick = true) {
+  checkPalindrome()
 }
