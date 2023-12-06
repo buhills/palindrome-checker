@@ -22,6 +22,7 @@ function checkPalindrome () {
     resultElement.innerHTML = 'Sorry, input text is not a palindrome.'
   }
 }
-if (onclick = true) {
+
+if (onclick) {
   checkPalindrome()
 }
