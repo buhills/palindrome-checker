@@ -8,7 +8,7 @@
 body {
   /* body styling */
   background-color: #2c3e3e;
-  margin-top: 100px
+  margin-top: 100px;
 }
 
 h1 {
@@ -27,7 +27,7 @@ section {
 }
 
 div {
-  background-color: rgba(23, 23, 23, 0.12);
+  background-color: #1717171f;
   margin: auto;
   width: max-content;
   padding: 3pc;
