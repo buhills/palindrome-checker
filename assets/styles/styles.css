@@ -8,16 +8,17 @@
 body {
   /* body styling */
   background-color: #2c3e3e;
+  margin-top: 100px
 }
 
 h1 {
   /* header tag styling */
   text-align: center;
-  margin-top: 50px;
+  margin-top: 10px;
   color: #f0f8ff;
 }
 
-div {
+section {
   /* div container styling */
   display: flex;
   justify-content: center;
@@ -25,11 +26,20 @@ div {
   margin: 50px;
 }
 
+div {
+  background-color: rgba(23, 23, 23, 0.12);
+  margin: auto;
+  width: max-content;
+  padding: 3pc;
+  background-repeat: repeat-y;
+  border-top-style: groove;
+}
+
 #input-text {
   /* input text field styling */
   padding: 10px;
   border-radius: 10px;
-  font-size: larger;
+  font-size: large;
 }
 
 button {
@@ -45,9 +55,9 @@ button {
   /* display text area styling */
   background-color: #f0ffff2d;
   font-size: xx-large;
-  width: 50%;
+  width: 80%;
   margin: auto;
-  padding: 20px;
   border-radius: 12px 0 8px;
   text-align: center;
+  color: #fff;
 }
