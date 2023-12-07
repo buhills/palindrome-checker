@@ -5,9 +5,9 @@
 
 ## App Home page
 ![home](./assets/images/pali%20homescreen.png)
-> This is the bueatiful front view of our app 
+> This is the bueatiful front view of our app
 
-## Is Not a Palindrome 
+## Is Not a Palindrome
 ![Why sell with us](./assets/images/NotPali.png)
 
 > A word, number, phrase or sequence of symbols that does not fulfill the condition is displayed the massage is NOT a palindrome
@@ -26,7 +26,7 @@
 
 ### Prerequisites
   Knowledge about JS function CSS styles & HTML tags
-- if statments 
+- if statments
 - For loop
 - Flex
 - Grid
