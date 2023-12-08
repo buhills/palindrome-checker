@@ -1,6 +1,6 @@
 // Check point for inputed string
 function palindromeText (str) {
-  let strArr = str.split(' ').join('')
+  const strArr = str.split(' ').join('')
   let j = strArr.length - 1
   for (let i = 0; i < j / 2; i++) {
     if (strArr[i] !== strArr[j]) {
